@@ -1,0 +1,38 @@
+*****************************************************
+w w w w w w w w w w 
+w                 w 
+w                 w 
+w                 w 
+w                 w 
+w                 w 
+w                 w 
+w                 w 
+w                 w 
+w w w w w w w w w w 
+-------------------
+Agent:           Model-Based Agent
+Total Dirty:     64
+Total Cleaned:   64
+Action cost:     221
+Efficiency:      0.2895927601809955
+Cleaned Percent: 1.0
+
+*****************************************************
+w w w w w w w w w w 
+w       w         w 
+w       w         w 
+w       w         w 
+w                 w 
+w w w   w   w w w w 
+w                 w 
+w       w         w 
+w       w         w 
+w w w w w w w w w w 
+-------------------
+Agent:           Model-Based Agent
+Total Dirty:     53
+Total Cleaned:   53
+Action cost:     161
+Efficiency:      0.32919254658385094
+Cleaned Percent: 1.0
+

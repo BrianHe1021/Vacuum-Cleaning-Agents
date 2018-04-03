@@ -1,0 +1,38 @@
+*****************************************************
+w w w w w w w w w w 
+w d d d d d d d d w 
+w d d d d d d d d w 
+w d d d d d d d d w 
+w d d d d d d d d w 
+w   d d d d d d d w 
+w   d d d d d d d w 
+w     d d d d d d w 
+w     d d d d d d w 
+w w w w w w w w w w 
+-------------------
+Agent:           Rondom-Relex Agent(Average)
+Total Dirty:     64.0
+Total Cleaned:   40.96
+Action cost:     260.26
+Efficiency:      0.15738108045800353
+Cleaned Percent: 0.64
+
+*****************************************************
+w w w w w w w w w w 
+w       w         w 
+w d d   w   d     w 
+w d d   w   d     w 
+w d d   d         w 
+w w w   w   w w w w 
+w                 w 
+w       w         w 
+w       w         w 
+w w w w w w w w w w 
+-------------------
+Agent:           Rondom-Relex Agent(Average)
+Total Dirty:     53.0
+Total Cleaned:   25.86
+Action cost:     208.14
+Efficiency:      0.12424329778034016
+Cleaned Percent: 0.48792452830188676
+

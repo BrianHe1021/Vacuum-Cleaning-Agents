@@ -1,0 +1,38 @@
+*****************************************************
+w w w w w w w w w w 
+w                 w 
+w   d d d d d d   w 
+w   d d d d d d   w 
+w   d d d d d d   w 
+w   d d d d d d   w 
+w   d d d d d d   w 
+w   d d d d d d   w 
+w                 w 
+w w w w w w w w w w 
+-------------------
+Agent:           Simple-Reflex Agent
+Total Dirty:     64
+Total Cleaned:   28
+Action cost:     60
+Efficiency:      0.4666666666666667
+Cleaned Percent: 0.4375
+
+*****************************************************
+w w w w w w w w w w 
+w       w         w 
+w   d   w   d d   w 
+w   d   w   d d   w 
+w                 w 
+w w w   w   w w w w 
+w                 w 
+w   d   w   d d   w 
+w       w         w 
+w w w w w w w w w w 
+-------------------
+Agent:           Simple-Reflex Agent
+Total Dirty:     53
+Total Cleaned:   44
+Action cost:     104
+Efficiency:      0.4230769230769231
+Cleaned Percent: 0.8301886792452831
+
